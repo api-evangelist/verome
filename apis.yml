@@ -1,0 +1,32 @@
+aid: verome
+name: Verome
+description: "Music API for searching, streaming, and exploring music data from YouTube Music, YouTube, and Last.fm"
+url: https://github.com/Kirazul/Verome-API
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Music"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Music
+  - Public APIs
+apis:
+  - name: Verome
+    description: "Music API for searching, streaming, and exploring music data from YouTube Music, YouTube, and Last.fm"
+    humanURL: https://github.com/Kirazul/Verome-API
+    baseURL: https://github.com/Kirazul/Verome-API
+    tags:
+      - Music
+    properties:
+      - type: Documentation
+        url: https://github.com/Kirazul/Verome-API
+common:
+  - type: Website
+    url: https://github.com/Kirazul/Verome-API
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
