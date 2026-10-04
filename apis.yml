@@ -39,7 +39,6 @@ apis:
   - name: Verome
     description: "Music API for searching, streaming, and exploring music data from YouTube Music, YouTube, and Last.fm"
     humanURL: https://github.com/Kirazul/Verome-API
-    baseURL: https://github.com/Kirazul/Verome-API
     tags:
       - Music
     properties:
